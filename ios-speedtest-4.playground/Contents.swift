@@ -10,4 +10,4 @@ func Multiplication(number1 : Int , number2 : Int)-> Int
 }
 
 
-// MARK:  و مرر رقمين ثم اطبع اناتج الضرب  Multiplication قم باستدعاء الداله
+// MARK:  و مرر رقمين ثم اطبع ناتج الضرب  Multiplication قم باستدعاء الداله
